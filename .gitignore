@@ -12,3 +12,4 @@ Unsloth_Chatmodel/qwen_nutrition_lora/
 Data/train_data.json
 Data/tbl_user_chat_202610081150.csv
 RLHF/rlhf_outputs
+.env
